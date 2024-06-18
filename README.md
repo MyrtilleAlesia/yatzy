@@ -1,4 +1,4 @@
 # yatzy
 Assignment 2
-Myrtille Murangamirwa 08444640
-Nalan Kurnaz
+Myrtille Murangamirwa 08444640 <br>
+Nalan Kurnaz - 300245521 
